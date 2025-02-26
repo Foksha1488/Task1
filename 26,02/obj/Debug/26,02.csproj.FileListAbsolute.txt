@@ -1,0 +1,7 @@
+D:\Фокша115\26,02\bin\Debug\26,02.exe.config
+D:\Фокша115\26,02\bin\Debug\26,02.exe
+D:\Фокша115\26,02\bin\Debug\26,02.pdb
+D:\Фокша115\26,02\obj\Debug\26,02.csproj.AssemblyReference.cache
+D:\Фокша115\26,02\obj\Debug\26,02.csproj.CoreCompileInputs.cache
+D:\Фокша115\26,02\obj\Debug\26,02.exe
+D:\Фокша115\26,02\obj\Debug\26,02.pdb
